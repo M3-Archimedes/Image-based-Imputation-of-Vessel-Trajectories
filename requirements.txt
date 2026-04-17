@@ -1,0 +1,10 @@
+ipykernel==6.29.3
+numpy==1.26.4
+pandas==3.0.2
+matplotlib==3.10.6
+scipy==1.17.1
+tqdm==4.67.1
+torch==2.6.0
+h3==4.3.1
+folium==0.20.0
+dtaidistance==2.3.13
