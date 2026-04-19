@@ -37,4 +37,4 @@ The inference workflow reconstructs missing trip segments at trajectory level ra
 
 ## License
 
-The contents of these repository are licensed under [GNU General Public License v3.0](https://github.com/M3-Archimedes/Imaged-Based-Reconstruction-pipeline/blob/main/LICENSE).
+The contents of these repository are licensed under [GNU General Public License v3.0](https://github.com/M3-Archimedes/Image-based-Imputation-of-Vessel-Trajectories/blob/main/LICENSE).
